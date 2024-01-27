@@ -183,3 +183,12 @@ config/stock_strategy_map.yml
 
 # Tests
 /tests/test_strategy_private.py
+/.vs/futu_algo/v17/workspaceFileList.bin
+/.vs/futu_algo/FileContentIndex/c10c698e-4eda-46d1-8a6c-30a70fc87565.vsidx
+/.vs/slnx.sqlite
+/.vs/futu_algo/FileContentIndex/03c1e687-a701-4a42-9731-ebf333e135e5.vsidx
+/.vs/futu_algo/v17/.wsuo
+/.vs/futu_algo/FileContentIndex/18283ba1-41c7-4b4a-9213-027359423ecd.vsidx
+/.vs/futu_algo/FileContentIndex/51631336-4878-4988-9845-0e3016d7b6d3.vsidx
+/.vs/futu_algo/FileContentIndex/d0d8ac99-446c-4bd8-914f-0051d4b013ee.vsidx
+*.vsidx
